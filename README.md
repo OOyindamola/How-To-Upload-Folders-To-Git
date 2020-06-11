@@ -1,7 +1,13 @@
 # How-To-Upload-Folders-To-Git
 
-$ git init
+git init
+
 git add <folder1> <folder2> <etc.>
+  
 git commit -m "Your message about the commit"
+
 git remote add origin https://github.com/yourUsername/yourRepository.git
+
+git pull <remote-url> <branch-name>
+  
 git push -u origin master

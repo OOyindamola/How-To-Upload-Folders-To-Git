@@ -2,7 +2,7 @@
 
 git init
 
-git add <folder1> <folder2> <etc.>
+git add *folder1* *folder2* <etc.>
   
 git commit -m "Your message about the commit"
 
